@@ -12,9 +12,6 @@ body{
     font-family: 'Karla', sans-serif;
     background-image: linear-gradient(90deg, #12fff7, #b1ffab);
 }
-.attribution a{
-    color: var(--Grayish-Blue);
-}
 
 .item-1 { grid-area: item1;
     padding-bottom: 3%;
